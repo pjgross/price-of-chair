@@ -1,5 +1,7 @@
 # Pricing Service
 
+This is a forked version by peter gross
+
 This is an application built to allow the periodic scanning of online webstores, to notify users of changes in prices of items they select.
 
 This application is part of the course "The Complete Python Web Developer", a course aimed at beginners, to teach the creation of web applications using Python. If that sounds interesting, check it out: https://www.udemy.com/the-complete-python-web-course-learn-by-building-8-apps/
@@ -16,6 +18,7 @@ It **does not work with Stores that dynamically inject content using JavaScript*
 It allows users to register, log in, and create and modify their alerts.
 
 Technology stack: MongoDB, Python (Flask & Jinja2), HTML/CSS/Bootstrap, Mailgun.
+
 
 ## Installation
 
